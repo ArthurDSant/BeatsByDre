@@ -46,10 +46,10 @@ npm install scrollreveal
 
 ![Beats 6](https://github.com/ArthurSantDev/Beats/assets/159972613/1a30388e-d7d7-4490-81cb-51db3cc46679)
 
-![MI1](https://github.com/ArthurSantDev/Beats/assets/159972613/0d34361b-1b19-47a7-a2e0-b73febae2c6b)
-![MI2](https://github.com/ArthurSantDev/Beats/assets/159972613/8eb75dbd-ec75-4207-9444-b2b5c16f6dcc)
-![MI3](https://github.com/ArthurSantDev/Beats/assets/159972613/c13ccea0-9f49-43ba-b1a6-edc3302d1e82)
+![Beats Iphone 1](https://github.com/ArthurSantDev/Beats/assets/159972613/c00d3913-269e-4265-bc63-6e48f7f51148)
+![Beats Iphone 2](https://github.com/ArthurSantDev/Beats/assets/159972613/ded82924-3522-4a6d-9a85-4bff460ce381)
+![Beats Iphone 3](https://github.com/ArthurSantDev/Beats/assets/159972613/116555c3-11b7-4a72-a284-e1496fe89c5c)
 
-![MI4](https://github.com/ArthurSantDev/Beats/assets/159972613/70a2262d-c7f3-493b-871e-52eb1111e7a5)
-![MI5](https://github.com/ArthurSantDev/Beats/assets/159972613/f6af51a9-6c61-49a6-9048-bbc4ce450741)
-![MI6](https://github.com/ArthurSantDev/Beats/assets/159972613/2a352921-0235-4b5f-ac4d-e82167d10ad1)
+![Beats Iphone 4](https://github.com/ArthurSantDev/Beats/assets/159972613/baa9d1eb-5716-44c3-b239-a103b4c061cd)
+![Beats Iphone 5](https://github.com/ArthurSantDev/Beats/assets/159972613/53f45e2a-cb0b-4d17-9f95-6b98c4d313b3)
+![Beats Iphone 6](https://github.com/ArthurSantDev/Beats/assets/159972613/e0e64a02-8b45-40e5-8af1-61913f90fc3f)
