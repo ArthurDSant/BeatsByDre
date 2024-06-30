@@ -568,6 +568,7 @@ i {
   bottom: -20%;
   display: flex;
   background-color: var(--container-color);
+  color: white;
   border-radius: .25rem;
   padding: .45rem;
   opacity: 9;

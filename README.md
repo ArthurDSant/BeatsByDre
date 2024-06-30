@@ -1,5 +1,5 @@
 # Beats
-![Beats](https://github.com/ArthurSantDev/Beats/assets/159972613/489d1340-62b5-4a32-af7f-1857ce07ba36)
+![Beats](https://github.com/ArthurSantDev/Beats/assets/159972613/213bd350-d334-438d-a352-7839ae3eef40)
 
 ## About the project
 Landing page inspired by the 'Beats' brand, with some of its products, responsive and modern layout and scroll animations, for a unique and striking customer experience. Project made based on a tutorial to learn the Scss tool.
@@ -34,18 +34,20 @@ npm install scrollreveal
 
 
 ## Screenshot
-![Beats 1](https://github.com/ArthurSantDev/Beats/assets/159972613/7550dad3-799b-4f77-9439-711d7e82d2b2)
+#### Desktop
+![1 Beats Pc](https://github.com/ArthurSantDev/Beats/assets/159972613/f253265c-ac47-4514-93f3-c1595d7aeb32)
 
-![Beats 2](https://github.com/ArthurSantDev/Beats/assets/159972613/0e116d03-38a5-4cdf-ba53-0bcb99c007b6)
+![2 Beats Pc](https://github.com/ArthurSantDev/Beats/assets/159972613/037661ab-5419-4593-a89b-5e6f294aa0ae)
 
-![Beats 3](https://github.com/ArthurSantDev/Beats/assets/159972613/a3816570-f30f-426e-911c-8cdb72e37bd4)
+![3 Beats Pc](https://github.com/ArthurSantDev/Beats/assets/159972613/c39d8b5c-59eb-45e6-94cc-ad465366b568)
 
-![Beats 4](https://github.com/ArthurSantDev/Beats/assets/159972613/28d3e169-f91f-4b38-a18f-90085d3b6334)
+![4 Beats Pc](https://github.com/ArthurSantDev/Beats/assets/159972613/3927c017-e6d0-4ec1-be27-83ec6acf8f6e)
 
-![Beats 5](https://github.com/ArthurSantDev/Beats/assets/159972613/cb7763bc-d935-4477-9f8d-e5ee8e93f380)
+![5 Beats Pc](https://github.com/ArthurSantDev/Beats/assets/159972613/8ed04a5a-9619-4527-9483-595d4f39d7c9)
 
-![Beats 6](https://github.com/ArthurSantDev/Beats/assets/159972613/1a30388e-d7d7-4490-81cb-51db3cc46679)
+![6 Beats Pc](https://github.com/ArthurSantDev/Beats/assets/159972613/1a5edafa-b03a-4a46-bb8a-819aad9c8059)
 
+#### Mobile
 ![Beats Iphone 1](https://github.com/ArthurSantDev/Beats/assets/159972613/c00d3913-269e-4265-bc63-6e48f7f51148)
 ![Beats Iphone 2](https://github.com/ArthurSantDev/Beats/assets/159972613/ded82924-3522-4a6d-9a85-4bff460ce381)
 ![Beats Iphone 3](https://github.com/ArthurSantDev/Beats/assets/159972613/116555c3-11b7-4a72-a284-e1496fe89c5c)

@@ -409,7 +409,7 @@ const App = () => {
         </div>
 
         <p className="footer__copy">
-          <a href="https://github.com/ArthurSantDev" target="_blank" className="footer__copy-link">&#169; Arthur Sant. All rights reserved</a>
+          <a href="https://github.com/ArthurSantDev" target="_blank" className="footer__copy-link">&#169;2024 Arthur Sant. All rights reserved.</a>
         </p>
       </footer>
 
