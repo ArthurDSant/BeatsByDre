@@ -2,7 +2,8 @@
 ![Beats](https://github.com/ArthurSantDev/Beats/assets/159972613/213bd350-d334-438d-a352-7839ae3eef40)
 
 ## About the project
-Landing page inspired by the 'Beats' brand, with some of its products, responsive and modern layout and scroll animations, for a unique and striking customer experience. Project made based on a tutorial to learn the Scss tool.
+Landing page inspired by the ‘Beats’ brand, with some of its products. Using animations using 'ScrollReveal' for a unique experience with modern and responsive UX/UI design for mobile devices. This project is a refactoring of a simpler one, which consisted of only (JavaScript, HTML, SCSS,
+CSS) Making it more complex and consistent by transforming it into a React project structured in Vite.Js, giving the freedom to create components making maintenance simpler and more accurate.
 
 
 ## Stacks
@@ -34,7 +35,7 @@ npm install scrollreveal
 
 
 ## Screenshot
-#### Desktop
+### Desktop
 ![1 Beats Pc](https://github.com/ArthurSantDev/Beats/assets/159972613/f253265c-ac47-4514-93f3-c1595d7aeb32)
 
 ![2 Beats Pc](https://github.com/ArthurSantDev/Beats/assets/159972613/037661ab-5419-4593-a89b-5e6f294aa0ae)
@@ -47,11 +48,11 @@ npm install scrollreveal
 
 ![6 Beats Pc](https://github.com/ArthurSantDev/Beats/assets/159972613/1a5edafa-b03a-4a46-bb8a-819aad9c8059)
 
-#### Mobile
-![Beats Iphone 1](https://github.com/ArthurSantDev/Beats/assets/159972613/c00d3913-269e-4265-bc63-6e48f7f51148)
-![Beats Iphone 2](https://github.com/ArthurSantDev/Beats/assets/159972613/ded82924-3522-4a6d-9a85-4bff460ce381)
-![Beats Iphone 3](https://github.com/ArthurSantDev/Beats/assets/159972613/116555c3-11b7-4a72-a284-e1496fe89c5c)
+### Mobile
+![Beats Iphone 1](https://github.com/ArthurSantDev/Beats/assets/159972613/d9bb02b8-69ab-4d8a-8bc0-29a68ae7807c)
+![Beats Iphone 2](https://github.com/ArthurSantDev/Beats/assets/159972613/04e7ce2d-2d79-4c8c-b7a9-e304779bf690)
+![Beats Iphone 3](https://github.com/ArthurSantDev/Beats/assets/159972613/f343391a-030e-410e-b27d-b0ecbe3160ef)
 
-![Beats Iphone 4](https://github.com/ArthurSantDev/Beats/assets/159972613/baa9d1eb-5716-44c3-b239-a103b4c061cd)
-![Beats Iphone 5](https://github.com/ArthurSantDev/Beats/assets/159972613/53f45e2a-cb0b-4d17-9f95-6b98c4d313b3)
-![Beats Iphone 6](https://github.com/ArthurSantDev/Beats/assets/159972613/e0e64a02-8b45-40e5-8af1-61913f90fc3f)
+![Beats Iphone 4](https://github.com/ArthurSantDev/Beats/assets/159972613/3ac1c08a-03ea-407b-b8b3-7a392cbe4944)
+![Beats Iphone 5](https://github.com/ArthurSantDev/Beats/assets/159972613/c738107e-2e8f-4cd9-92f5-5609fc7e54c5)
+![Beats Iphone 6](https://github.com/ArthurSantDev/Beats/assets/159972613/59f1e7eb-71c6-456a-b95b-5809f3c34f21)
