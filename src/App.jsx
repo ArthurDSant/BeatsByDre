@@ -1,18 +1,6 @@
-import { RiFunctionLine } from "react-icons/ri"; 
-import { RiCloseLine } from "react-icons/ri"; 
-import { RiSendPlaneLine } from "react-icons/ri"; 
-import { RiFacebookFill } from "react-icons/ri"; 
-import { RiInstagramLine } from "react-icons/ri"; 
-import { RiTwitterLine } from "react-icons/ri"; 
-import { RiArrowUpSLine } from "react-icons/ri"; 
-import { RiBluetoothLine } from "react-icons/ri"; 
-import { RiBatteryChargeLine } from "react-icons/ri"; 
-import { RiPlugLine } from "react-icons/ri"; 
-import { RiMicLine } from "react-icons/ri"; 
-import { RiInformationLine } from "react-icons/ri"; 
-import { RiShoppingBagLine } from "react-icons/ri"; 
 import React, { useEffect } from 'react';
 import ScrollReveal from 'scrollreveal';
+
 import './css/index.css';
 import './scss/index.scss';
 import './scss/base/index.scss';
@@ -30,6 +18,21 @@ import './scss/components/_products.scss';
 import './scss/components/_scroll.scss';
 import './scss/components/_specs.scss';
 import './scss/components/_sponsor.scss';
+
+import { RiFunctionLine } from "react-icons/ri"; 
+import { RiCloseLine } from "react-icons/ri"; 
+import { RiSendPlaneLine } from "react-icons/ri"; 
+import { RiFacebookFill } from "react-icons/ri"; 
+import { RiInstagramLine } from "react-icons/ri"; 
+import { RiTwitterLine } from "react-icons/ri"; 
+import { RiArrowUpSLine } from "react-icons/ri"; 
+import { RiBluetoothLine } from "react-icons/ri"; 
+import { RiBatteryChargeLine } from "react-icons/ri"; 
+import { RiPlugLine } from "react-icons/ri"; 
+import { RiMicLine } from "react-icons/ri"; 
+import { RiInformationLine } from "react-icons/ri"; 
+import { RiShoppingBagLine } from "react-icons/ri"; 
+
 
 const App = () => {
 
